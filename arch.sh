@@ -1,0 +1,1 @@
+yay -S --needed vlc drawing brave-bin spotify anydesk-bin remmina rustdesk-bin bleachbit okular libreoffice-still gparted discord whatsapp-for-linux visual-studio-code-bin steam heroic-games-launcher-bin wine-stable  zen-browser-bin
