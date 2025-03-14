@@ -1,1 +1,1 @@
-yay -S --needed drawing brave-bin spotify anydesk-bin remmina bleachbit libreoffice-still gparted discord whatsapp-for-linux steam heroic-games-launcher-bin wine-stable zen-browser-bin guilded proton-vpn-gtk-app obs-studio-git spectacle gwenview
+yay -S --needed drawing brave-bin spotify anydesk-bin bleachbit libreoffice-still gparted discord steam heroic-games-launcher-bin wine-stable librewolf obs-studio-git spectacle gwenview
